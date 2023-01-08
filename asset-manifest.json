@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.073c9b0a.css",
-    "main.js": "/for-efrem/static/js/main.f603e1d1.js",
+    "main.css": "/for-efrem/static/css/main.eae10a5b.css",
+    "main.js": "/for-efrem/static/js/main.d0424d1c.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
-    "static/media/logo.svg": "/for-efrem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
+    "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
+    "static/media/MA.png": "/for-efrem/static/media/MA.14f500e2b53e0cddea82.png",
+    "static/media/Circus.png": "/for-efrem/static/media/Circus.dcd2f7dddb2c42efaae5.png",
+    "static/media/Factory.png": "/for-efrem/static/media/Factory.70be6c2f43cdd47da4d4.png",
+    "static/media/Subway.png": "/for-efrem/static/media/Subway.b65c5320e088996cf7c0.png",
     "index.html": "/for-efrem/index.html",
-    "main.073c9b0a.css.map": "/for-efrem/static/css/main.073c9b0a.css.map",
-    "main.f603e1d1.js.map": "/for-efrem/static/js/main.f603e1d1.js.map",
+    "main.eae10a5b.css.map": "/for-efrem/static/css/main.eae10a5b.css.map",
+    "main.d0424d1c.js.map": "/for-efrem/static/js/main.d0424d1c.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f603e1d1.js"
+    "static/css/main.eae10a5b.css",
+    "static/js/main.d0424d1c.js"
   ]
 }
