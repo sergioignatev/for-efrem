@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.0cb290fb.css",
-    "main.js": "/for-efrem/static/js/main.7d36213a.js",
+    "main.css": "/for-efrem/static/css/main.fb312cf4.css",
+    "main.js": "/for-efrem/static/js/main.d779fdc4.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
     "static/media/MA.png": "/for-efrem/static/media/MA.14f500e2b53e0cddea82.png",
     "static/media/Circus.png": "/for-efrem/static/media/Circus.dcd2f7dddb2c42efaae5.png",
     "static/media/Factory.png": "/for-efrem/static/media/Factory.70be6c2f43cdd47da4d4.png",
+    "static/media/винтик.jpg": "/for-efrem/static/media/винтик.ead399d2ac0a715e0eec.jpg",
+    "static/media/незнайка.jpg": "/for-efrem/static/media/незнайка.8652ce3c1913bb00db7a.jpg",
+    "static/media/знайка.jpg": "/for-efrem/static/media/знайка.6f2d2c574c29f95757cb.jpg",
     "static/media/Subway.png": "/for-efrem/static/media/Subway.b65c5320e088996cf7c0.png",
+    "static/media/circus.jpg": "/for-efrem/static/media/circus.a108ebc76d04edcc2227.jpg",
     "static/media/img.jpg": "/for-efrem/static/media/img.7a28540ebfeb36771b2b.jpg",
+    "static/media/character.jpg": "/for-efrem/static/media/character.e3c4ac0f373e30ca34c9.jpg",
     "index.html": "/for-efrem/index.html",
-    "main.0cb290fb.css.map": "/for-efrem/static/css/main.0cb290fb.css.map",
-    "main.7d36213a.js.map": "/for-efrem/static/js/main.7d36213a.js.map",
+    "main.fb312cf4.css.map": "/for-efrem/static/css/main.fb312cf4.css.map",
+    "main.d779fdc4.js.map": "/for-efrem/static/js/main.d779fdc4.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb290fb.css",
-    "static/js/main.7d36213a.js"
+    "static/css/main.fb312cf4.css",
+    "static/js/main.d779fdc4.js"
   ]
 }
