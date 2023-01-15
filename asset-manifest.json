@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.fb312cf4.css",
-    "main.js": "/for-efrem/static/js/main.d779fdc4.js",
+    "main.css": "/for-efrem/static/css/main.0502e676.css",
+    "main.js": "/for-efrem/static/js/main.d130585c.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -9,19 +9,23 @@
     "static/media/Circus.png": "/for-efrem/static/media/Circus.dcd2f7dddb2c42efaae5.png",
     "static/media/Factory.png": "/for-efrem/static/media/Factory.70be6c2f43cdd47da4d4.png",
     "static/media/винтик.jpg": "/for-efrem/static/media/винтик.ead399d2ac0a715e0eec.jpg",
+    "static/media/пончик.jpg": "/for-efrem/static/media/пончик.f50b3f189c2b3f6aa71a.jpg",
     "static/media/незнайка.jpg": "/for-efrem/static/media/незнайка.8652ce3c1913bb00db7a.jpg",
+    "static/media/пилюлькин.jpg": "/for-efrem/static/media/пилюлькин.1d96502fa951fcd668f4.jpg",
+    "static/media/синеглазка.jpg": "/for-efrem/static/media/синеглазка.f2e646b10e8ae2bedf9c.jpg",
+    "static/media/гусля.jpg": "/for-efrem/static/media/гусля.c98731bfca5dbcd77c52.jpg",
     "static/media/знайка.jpg": "/for-efrem/static/media/знайка.6f2d2c574c29f95757cb.jpg",
     "static/media/Subway.png": "/for-efrem/static/media/Subway.b65c5320e088996cf7c0.png",
     "static/media/circus.jpg": "/for-efrem/static/media/circus.a108ebc76d04edcc2227.jpg",
     "static/media/img.jpg": "/for-efrem/static/media/img.7a28540ebfeb36771b2b.jpg",
     "static/media/character.jpg": "/for-efrem/static/media/character.e3c4ac0f373e30ca34c9.jpg",
     "index.html": "/for-efrem/index.html",
-    "main.fb312cf4.css.map": "/for-efrem/static/css/main.fb312cf4.css.map",
-    "main.d779fdc4.js.map": "/for-efrem/static/js/main.d779fdc4.js.map",
+    "main.0502e676.css.map": "/for-efrem/static/css/main.0502e676.css.map",
+    "main.d130585c.js.map": "/for-efrem/static/js/main.d130585c.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb312cf4.css",
-    "static/js/main.d779fdc4.js"
+    "static/css/main.0502e676.css",
+    "static/js/main.d130585c.js"
   ]
 }
