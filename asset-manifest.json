@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.b709d17c.css",
-    "main.js": "/for-efrem/static/js/main.55be2573.js",
+    "main.css": "/for-efrem/static/css/main.c3b276c8.css",
+    "main.js": "/for-efrem/static/js/main.3a305fb9.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -29,20 +29,28 @@
     "static/media/palace.jpg": "/for-efrem/static/media/palace.386487482df3fe185942.jpg",
     "static/media/garden.jpg": "/for-efrem/static/media/garden.463edbbf39d053159ad1.jpg",
     "static/media/square2.jpg": "/for-efrem/static/media/square2.18e2810ec1a00e8ec5e2.jpg",
+    "static/media/stock6.jpg": "/for-efrem/static/media/stock6.b85c912cc1cd7178c626.jpg",
     "static/media/kitchen.jpg": "/for-efrem/static/media/kitchen.36fc84328ff4388c13b8.jpg",
+    "static/media/stock8.jpg": "/for-efrem/static/media/stock8.c70ce67e3f8c70597083.jpg",
+    "static/media/stock2.jpg": "/for-efrem/static/media/stock2.4f4647e16939addaf812.jpg",
     "static/media/heir.jpg": "/for-efrem/static/media/heir.7e07d3b7e96a6f051d75.jpg",
+    "static/media/stock3.jpg": "/for-efrem/static/media/stock3.3277091dabe57aa1ccf6.jpg",
     "static/media/prison.jpg": "/for-efrem/static/media/prison.b470f9cbfac826a7693b.jpg",
+    "static/media/stock5.jpg": "/for-efrem/static/media/stock5.969ab7be9a8a645ed892.jpg",
+    "static/media/stock1.jpg": "/for-efrem/static/media/stock1.c7ebf919247e8555bb99.jpg",
+    "static/media/stock7.jpg": "/for-efrem/static/media/stock7.a55893f4b14aa33b5300.jpg",
+    "static/media/stock4.jpg": "/for-efrem/static/media/stock4.38480922fbd35fd263ef.jpg",
     "static/media/show decoration.jpg": "/for-efrem/static/media/show decoration.378c5eb3aaa2f28903ca.jpg",
     "static/media/social network madness.jpg": "/for-efrem/static/media/social network madness.4a9ac933f2765fd2c94d.jpg",
     "static/media/character.jpg": "/for-efrem/static/media/character.e3c4ac0f373e30ca34c9.jpg",
     "static/media/illusion show poster.jpg": "/for-efrem/static/media/illusion show poster.dddea0f4ea7bf6f6c264.jpg",
     "index.html": "/for-efrem/index.html",
-    "main.b709d17c.css.map": "/for-efrem/static/css/main.b709d17c.css.map",
-    "main.55be2573.js.map": "/for-efrem/static/js/main.55be2573.js.map",
+    "main.c3b276c8.css.map": "/for-efrem/static/css/main.c3b276c8.css.map",
+    "main.3a305fb9.js.map": "/for-efrem/static/js/main.3a305fb9.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b709d17c.css",
-    "static/js/main.55be2573.js"
+    "static/css/main.c3b276c8.css",
+    "static/js/main.3a305fb9.js"
   ]
 }
