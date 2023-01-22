@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.c246fc70.css",
-    "main.js": "/for-efrem/static/js/main.9fd1893b.js",
+    "main.css": "/for-efrem/static/css/main.cc78505e.css",
+    "main.js": "/for-efrem/static/js/main.a85b5012.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -45,12 +45,12 @@
     "static/media/character.jpg": "/for-efrem/static/media/character.e3c4ac0f373e30ca34c9.jpg",
     "static/media/illusion show poster.jpg": "/for-efrem/static/media/illusion show poster.dddea0f4ea7bf6f6c264.jpg",
     "index.html": "/for-efrem/index.html",
-    "main.c246fc70.css.map": "/for-efrem/static/css/main.c246fc70.css.map",
-    "main.9fd1893b.js.map": "/for-efrem/static/js/main.9fd1893b.js.map",
+    "main.cc78505e.css.map": "/for-efrem/static/css/main.cc78505e.css.map",
+    "main.a85b5012.js.map": "/for-efrem/static/js/main.a85b5012.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c246fc70.css",
-    "static/js/main.9fd1893b.js"
+    "static/css/main.cc78505e.css",
+    "static/js/main.a85b5012.js"
   ]
 }
