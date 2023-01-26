@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.09730a4e.css",
+    "main.css": "/for-efrem/static/css/main.20c6d895.css",
     "main.js": "/for-efrem/static/js/main.cea3d686.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
@@ -67,12 +67,12 @@
     "static/media/target5.jpg": "/for-efrem/static/media/target5.80b5c13f81bf4cedd0cc.jpg",
     "static/media/target8.jpg": "/for-efrem/static/media/target8.fcf6813a32d3c2f92d30.jpg",
     "index.html": "/for-efrem/index.html",
-    "main.09730a4e.css.map": "/for-efrem/static/css/main.09730a4e.css.map",
+    "main.20c6d895.css.map": "/for-efrem/static/css/main.20c6d895.css.map",
     "main.cea3d686.js.map": "/for-efrem/static/js/main.cea3d686.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09730a4e.css",
+    "static/css/main.20c6d895.css",
     "static/js/main.cea3d686.js"
   ]
 }
