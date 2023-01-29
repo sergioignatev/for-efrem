@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.b1d631bc.css",
-    "main.js": "/for-efrem/static/js/main.55938405.js",
+    "main.css": "/for-efrem/static/css/main.d6c3eddb.css",
+    "main.js": "/for-efrem/static/js/main.17751ce7.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -54,6 +54,7 @@
     "static/media/insta3.jpg": "/for-efrem/static/media/insta3.32ecfa7905f5ddca893f.jpg",
     "static/media/rollap4.jpg": "/for-efrem/static/media/rollap4.9794570b9b5fcd80b653.jpg",
     "static/media/insta1.jpg": "/for-efrem/static/media/insta1.d0755e8284cd2e098bb0.jpg",
+    "static/media/efrem.jpg": "/for-efrem/static/media/efrem.b91038c5fe90c83a536f.jpg",
     "static/media/target4.jpg": "/for-efrem/static/media/target4.abc4469c1b089dcbb9da.jpg",
     "static/media/stock5.jpg": "/for-efrem/static/media/stock5.969ab7be9a8a645ed892.jpg",
     "static/media/stock1.jpg": "/for-efrem/static/media/stock1.c7ebf919247e8555bb99.jpg",
@@ -74,15 +75,16 @@
     "static/media/illusion show poster.jpg": "/for-efrem/static/media/illusion show poster.dddea0f4ea7bf6f6c264.jpg",
     "static/media/target5.jpg": "/for-efrem/static/media/target5.80b5c13f81bf4cedd0cc.jpg",
     "static/media/target8.jpg": "/for-efrem/static/media/target8.fcf6813a32d3c2f92d30.jpg",
+    "static/media/taracks.pdf": "/for-efrem/static/media/taracks.2ea4e08ac5e98ee6f967.pdf",
     "static/media/kievLogo.png": "/for-efrem/static/media/kievLogo.215ca0cb541aa276d30e.png",
     "static/media/minskLogo.png": "/for-efrem/static/media/minskLogo.958ed9df2df157a2038e.png",
     "index.html": "/for-efrem/index.html",
-    "main.b1d631bc.css.map": "/for-efrem/static/css/main.b1d631bc.css.map",
-    "main.55938405.js.map": "/for-efrem/static/js/main.55938405.js.map",
+    "main.d6c3eddb.css.map": "/for-efrem/static/css/main.d6c3eddb.css.map",
+    "main.17751ce7.js.map": "/for-efrem/static/js/main.17751ce7.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d631bc.css",
-    "static/js/main.55938405.js"
+    "static/css/main.d6c3eddb.css",
+    "static/js/main.17751ce7.js"
   ]
 }
