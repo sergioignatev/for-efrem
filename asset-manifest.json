@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.f1ad39ab.css",
-    "main.js": "/for-efrem/static/js/main.04bac75d.js",
+    "main.css": "/for-efrem/static/css/main.5bd06792.css",
+    "main.js": "/for-efrem/static/js/main.3e1099e0.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -54,9 +54,9 @@
     "static/media/insta3.jpg": "/for-efrem/static/media/insta3.32ecfa7905f5ddca893f.jpg",
     "static/media/rollap4.jpg": "/for-efrem/static/media/rollap4.9794570b9b5fcd80b653.jpg",
     "static/media/insta1.jpg": "/for-efrem/static/media/insta1.d0755e8284cd2e098bb0.jpg",
-    "static/media/efrem.jpg": "/for-efrem/static/media/efrem.b91038c5fe90c83a536f.jpg",
     "static/media/target4.jpg": "/for-efrem/static/media/target4.abc4469c1b089dcbb9da.jpg",
     "static/media/stock5.jpg": "/for-efrem/static/media/stock5.969ab7be9a8a645ed892.jpg",
+    "static/media/efrem.jpg": "/for-efrem/static/media/efrem.1b8d2c113d4e49e1768b.jpg",
     "static/media/stock1.jpg": "/for-efrem/static/media/stock1.c7ebf919247e8555bb99.jpg",
     "static/media/insta5.jpg": "/for-efrem/static/media/insta5.5ade8bc1e635940cce2a.jpg",
     "static/media/target3.jpg": "/for-efrem/static/media/target3.1815b34e9d50b45139cf.jpg",
@@ -78,13 +78,14 @@
     "static/media/taracks.pdf": "/for-efrem/static/media/taracks.2ea4e08ac5e98ee6f967.pdf",
     "static/media/kievLogo.png": "/for-efrem/static/media/kievLogo.215ca0cb541aa276d30e.png",
     "static/media/minskLogo.png": "/for-efrem/static/media/minskLogo.958ed9df2df157a2038e.png",
+    "static/media/Лого.svg": "/for-efrem/static/media/Лого.1e5063d857b3b49f78316fb8215da980.svg",
     "index.html": "/for-efrem/index.html",
-    "main.f1ad39ab.css.map": "/for-efrem/static/css/main.f1ad39ab.css.map",
-    "main.04bac75d.js.map": "/for-efrem/static/js/main.04bac75d.js.map",
+    "main.5bd06792.css.map": "/for-efrem/static/css/main.5bd06792.css.map",
+    "main.3e1099e0.js.map": "/for-efrem/static/js/main.3e1099e0.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1ad39ab.css",
-    "static/js/main.04bac75d.js"
+    "static/css/main.5bd06792.css",
+    "static/js/main.3e1099e0.js"
   ]
 }
