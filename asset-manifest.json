@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.8d9d23a4.css",
-    "main.js": "/for-efrem/static/js/main.ef58fe42.js",
+    "main.css": "/for-efrem/static/css/main.544d7a23.css",
+    "main.js": "/for-efrem/static/js/main.f1586643.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
+    "static/media/posters4.jpg": "/for-efrem/static/media/posters4.07a9c193141d478292eb.jpg",
+    "static/media/posters5.jpg": "/for-efrem/static/media/posters5.8b4f687fe8c00a3f7446.jpg",
+    "static/media/posters3.jpg": "/for-efrem/static/media/posters3.f5139c62df7f2094001f.jpg",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
     "static/media/MA.png": "/for-efrem/static/media/MA.14f500e2b53e0cddea82.png",
+    "static/media/posters1.jpg": "/for-efrem/static/media/posters1.6581799be947fe5bece1.jpg",
     "static/media/Circus.png": "/for-efrem/static/media/Circus.dcd2f7dddb2c42efaae5.png",
     "static/media/Factory.png": "/for-efrem/static/media/Factory.70be6c2f43cdd47da4d4.png",
     "static/media/wallpaper3.jpg": "/for-efrem/static/media/wallpaper3.9def369418f917f68136.jpg",
@@ -38,6 +42,7 @@
     "static/media/catalogue6.jpg": "/for-efrem/static/media/catalogue6.636aa1768eed9555e906.jpg",
     "static/media/palace.jpg": "/for-efrem/static/media/palace.386487482df3fe185942.jpg",
     "static/media/garden.jpg": "/for-efrem/static/media/garden.463edbbf39d053159ad1.jpg",
+    "static/media/posters2.jpg": "/for-efrem/static/media/posters2.58656cf2c6cbee483bed.jpg",
     "static/media/square2.jpg": "/for-efrem/static/media/square2.18e2810ec1a00e8ec5e2.jpg",
     "static/media/stock6.jpg": "/for-efrem/static/media/stock6.b85c912cc1cd7178c626.jpg",
     "static/media/rollap2.jpg": "/for-efrem/static/media/rollap2.69f879e7f504a67d05db.jpg",
@@ -80,12 +85,12 @@
     "static/media/minskLogo.png": "/for-efrem/static/media/minskLogo.958ed9df2df157a2038e.png",
     "static/media/Лого.svg": "/for-efrem/static/media/Лого.1e5063d857b3b49f78316fb8215da980.svg",
     "index.html": "/for-efrem/index.html",
-    "main.8d9d23a4.css.map": "/for-efrem/static/css/main.8d9d23a4.css.map",
-    "main.ef58fe42.js.map": "/for-efrem/static/js/main.ef58fe42.js.map",
+    "main.544d7a23.css.map": "/for-efrem/static/css/main.544d7a23.css.map",
+    "main.f1586643.js.map": "/for-efrem/static/js/main.f1586643.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d9d23a4.css",
-    "static/js/main.ef58fe42.js"
+    "static/css/main.544d7a23.css",
+    "static/js/main.f1586643.js"
   ]
 }
