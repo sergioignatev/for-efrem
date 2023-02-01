@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/for-efrem/static/css/main.4b8e89f6.css",
-    "main.js": "/for-efrem/static/js/main.e41f8ac0.js",
+    "main.js": "/for-efrem/static/js/main.b64ad2c1.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -9,12 +9,19 @@
     "static/media/Circus.png": "/for-efrem/static/media/Circus.dcd2f7dddb2c42efaae5.png",
     "static/media/Factory.png": "/for-efrem/static/media/Factory.70be6c2f43cdd47da4d4.png",
     "static/media/wallpaper3.jpg": "/for-efrem/static/media/wallpaper3.9def369418f917f68136.jpg",
+    "static/media/винтик.jpg": "/for-efrem/static/media/винтик.ead399d2ac0a715e0eec.jpg",
     "static/media/wallpaper4.jpg": "/for-efrem/static/media/wallpaper4.1cdd81bd93f0c37644b8.jpg",
+    "static/media/пончик.jpg": "/for-efrem/static/media/пончик.f50b3f189c2b3f6aa71a.jpg",
+    "static/media/незнайка.jpg": "/for-efrem/static/media/незнайка.8652ce3c1913bb00db7a.jpg",
     "static/media/wallpaper1.jpg": "/for-efrem/static/media/wallpaper1.8f907412bffdf50a2b68.jpg",
+    "static/media/пилюлькин.jpg": "/for-efrem/static/media/пилюлькин.1d96502fa951fcd668f4.jpg",
+    "static/media/синеглазка.jpg": "/for-efrem/static/media/синеглазка.f2e646b10e8ae2bedf9c.jpg",
     "static/media/catalogue5.jpg": "/for-efrem/static/media/catalogue5.5168cf8d135a0195d13a.jpg",
     "static/media/wallpaper2.jpg": "/for-efrem/static/media/wallpaper2.88eb1d4f13d8116c2539.jpg",
     "static/media/catalogue2.jpg": "/for-efrem/static/media/catalogue2.0fdb60dad2ac65e8780b.jpg",
+    "static/media/гусля.jpg": "/for-efrem/static/media/гусля.c98731bfca5dbcd77c52.jpg",
     "static/media/catalogue1.jpg": "/for-efrem/static/media/catalogue1.2270025bccb176e784f5.jpg",
+    "static/media/знайка.jpg": "/for-efrem/static/media/знайка.6f2d2c574c29f95757cb.jpg",
     "static/media/Subway.png": "/for-efrem/static/media/Subway.b65c5320e088996cf7c0.png",
     "static/media/catalogue4.jpg": "/for-efrem/static/media/catalogue4.a2141f6de01d151df6d9.jpg",
     "static/media/show.png": "/for-efrem/static/media/show.d6d2f841b0f012f92a0e.png",
@@ -77,11 +84,11 @@
     "static/media/Лого.svg": "/for-efrem/static/media/Лого.1e5063d857b3b49f78316fb8215da980.svg",
     "index.html": "/for-efrem/index.html",
     "main.4b8e89f6.css.map": "/for-efrem/static/css/main.4b8e89f6.css.map",
-    "main.e41f8ac0.js.map": "/for-efrem/static/js/main.e41f8ac0.js.map",
+    "main.b64ad2c1.js.map": "/for-efrem/static/js/main.b64ad2c1.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b8e89f6.css",
-    "static/js/main.e41f8ac0.js"
+    "static/js/main.b64ad2c1.js"
   ]
 }
