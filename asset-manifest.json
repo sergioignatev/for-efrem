@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.6c3b08e8.css",
-    "main.js": "/for-efrem/static/js/main.1bb94379.js",
+    "main.css": "/for-efrem/static/css/main.b1fc630f.css",
+    "main.js": "/for-efrem/static/js/main.a46d577f.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
     "static/media/Museum.png": "/for-efrem/static/media/Museum.da265df2cedf6ecf62f6.png",
@@ -90,13 +90,17 @@
     "static/media/taracks.pdf": "/for-efrem/static/media/taracks.2ea4e08ac5e98ee6f967.pdf",
     "static/media/madness8.jpg": "/for-efrem/static/media/madness8.bbabd603d3506f793375.jpg",
     "static/media/madness4.jpg": "/for-efrem/static/media/madness4.a07e1050fb774a975f80.jpg",
+    "static/media/agriculture6.jpg": "/for-efrem/static/media/agriculture6.2c104866900bf73b192d.jpg",
     "static/media/kievLogo.png": "/for-efrem/static/media/kievLogo.215ca0cb541aa276d30e.png",
     "static/media/madness9.jpg": "/for-efrem/static/media/madness9.3cd97decdc69aeeec97f.jpg",
+    "static/media/agriculture3.jpg": "/for-efrem/static/media/agriculture3.adabd74e71cfbcdd9147.jpg",
     "static/media/8 background.jpg": "/for-efrem/static/media/8 background.6b330380c15e686ebcc5.jpg",
     "static/media/4 background.jpg": "/for-efrem/static/media/4 background.f63b9e3906bda6641cce.jpg",
+    "static/media/agriculture1.jpg": "/for-efrem/static/media/agriculture1.e6e7f5eabbcf6b09cdf2.jpg",
     "static/media/madness7.jpg": "/for-efrem/static/media/madness7.e5c4a0ebf470ce34893f.jpg",
     "static/media/madness3.jpg": "/for-efrem/static/media/madness3.5ad7c13b49bcee600043.jpg",
     "static/media/wall5.jpg": "/for-efrem/static/media/wall5.fa6cb4bd0ba65df85102.jpg",
+    "static/media/agriculture5.jpg": "/for-efrem/static/media/agriculture5.2c0fbcce95a41e90b81c.jpg",
     "static/media/madness2.jpg": "/for-efrem/static/media/madness2.a51fa879f7eb8f3e0bdd.jpg",
     "static/media/5 background.jpg": "/for-efrem/static/media/5 background.3e4d25a98b9188fce0cb.jpg",
     "static/media/circ.jpg": "/for-efrem/static/media/circ.1494b23e446c0da29f65.jpg",
@@ -104,7 +108,9 @@
     "static/media/6 background.jpg": "/for-efrem/static/media/6 background.e2c780c01cb3fb781a28.jpg",
     "static/media/7 background.jpg": "/for-efrem/static/media/7 background.01fe3b2dcefa7354664d.jpg",
     "static/media/wall1.jpg": "/for-efrem/static/media/wall1.f477262b9b9f2b6e8eea.jpg",
+    "static/media/agriculture2.jpg": "/for-efrem/static/media/agriculture2.346e2c095217ed968b7c.jpg",
     "static/media/wall4.jpg": "/for-efrem/static/media/wall4.017b01aa4eda8675b760.jpg",
+    "static/media/agriculture4.jpg": "/for-efrem/static/media/agriculture4.8c28170c9a1afb1284db.jpg",
     "static/media/wall2.jpg": "/for-efrem/static/media/wall2.b3fbab5e65222c56e108.jpg",
     "static/media/3 background.jpg": "/for-efrem/static/media/3 background.e9fc84991ff59cb9041c.jpg",
     "static/media/wall3.jpg": "/for-efrem/static/media/wall3.8665d012c0754e066973.jpg",
@@ -115,12 +121,12 @@
     "static/media/wall8.jpg": "/for-efrem/static/media/wall8.299175835c0640f9f16c.jpg",
     "static/media/Лого.svg": "/for-efrem/static/media/Лого.1e5063d857b3b49f78316fb8215da980.svg",
     "index.html": "/for-efrem/index.html",
-    "main.6c3b08e8.css.map": "/for-efrem/static/css/main.6c3b08e8.css.map",
-    "main.1bb94379.js.map": "/for-efrem/static/js/main.1bb94379.js.map",
+    "main.b1fc630f.css.map": "/for-efrem/static/css/main.b1fc630f.css.map",
+    "main.a46d577f.js.map": "/for-efrem/static/js/main.a46d577f.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c3b08e8.css",
-    "static/js/main.1bb94379.js"
+    "static/css/main.b1fc630f.css",
+    "static/js/main.a46d577f.js"
   ]
 }
