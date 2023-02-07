@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/for-efrem/static/css/main.80c0a952.css",
+    "main.css": "/for-efrem/static/css/main.23f39197.css",
     "main.js": "/for-efrem/static/js/main.4389583e.js",
     "static/js/787.56649f17.chunk.js": "/for-efrem/static/js/787.56649f17.chunk.js",
     "static/media/University.png": "/for-efrem/static/media/University.66f88c6d04dc790fd76b.png",
@@ -172,12 +172,12 @@
     "static/media/6_LR.png": "/for-efrem/static/media/6_LR.38602e0e398446cc4f09.png",
     "static/media/linkedinw.png": "/for-efrem/static/media/linkedinw.19964265a69e6640b6c2.png",
     "index.html": "/for-efrem/index.html",
-    "main.80c0a952.css.map": "/for-efrem/static/css/main.80c0a952.css.map",
+    "main.23f39197.css.map": "/for-efrem/static/css/main.23f39197.css.map",
     "main.4389583e.js.map": "/for-efrem/static/js/main.4389583e.js.map",
     "787.56649f17.chunk.js.map": "/for-efrem/static/js/787.56649f17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c0a952.css",
+    "static/css/main.23f39197.css",
     "static/js/main.4389583e.js"
   ]
 }
